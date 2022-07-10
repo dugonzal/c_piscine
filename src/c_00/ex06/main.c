@@ -6,7 +6,14 @@
 /*   By: ciclo <ciclo@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/10 11:01:32 by ciclo             #+#    #+#             */
-/*   Updated: 2022/07/10 11:01:33 by ciclo            ###   ########.fr       */
+/*   Updated: 2022/07/10 17:31:03 by ciclo            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "../../include/c_piscine.h"
+
+int	main(void)
+{
+	ft_print_comb2();
+	return (0);
+}
